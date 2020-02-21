@@ -63,6 +63,7 @@ img {
 }
 
 a {
+  font-weight: bold;
   color: #ffffff;
   position: absolute;
   text-shadow: 3px -2px #ffff00;
