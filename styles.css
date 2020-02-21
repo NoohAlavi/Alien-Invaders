@@ -1,0 +1,63 @@
+#cvs {
+  background-color: #000000;
+  border: 5px solid #00ffff;
+  /*border-bottom: 5px solid #000000;*/
+  background-image: url('Assets/background.png');
+  position: absolute;
+  left: 250px;
+  top: 25px;
+}
+
+body {
+  background-image: url("Assets/BG.png");
+}
+
+h1 {
+  position: absolute;
+  font-family: cursive;
+  text-shadow: 3px -2px #ffffff;
+}
+    
+#titleContainer {
+  position: absolute;
+  color: #ff0000;
+  top: 500px;
+  text-align: justify;
+}
+
+#nameContainer {
+  color: #0000ff;
+  position: absolute;
+  top: 600px;
+  text-align: justify;
+}
+    
+#scoreText {
+  position: absolute;
+  font-family: cursive;
+  color: #ffff00;
+  text-shadow: 3px -2px #ff0000;
+  left: 1250px;
+}
+
+#difficulty {
+  position: absolute;
+  font-family: cursive;
+  color: #00ffff;
+  text-shadow: 3px -2px #ffff00;
+  left: 1000px;
+  top: 650px;
+}
+
+#lives {
+  position: absolute;
+  font-family: cursive;
+  color: #ff0000;
+  text-shadow: 3px -2px #ffff00;
+}
+
+img {
+  position: absolute;
+  top: 650px;
+  left: 600px;
+}
